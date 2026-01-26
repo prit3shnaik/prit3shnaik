@@ -6,7 +6,7 @@ Red Team • VAPT • Threat Intelligence • OSINT • Web3 Security
 <p align="center">
   <a href="https://linkedin.com/in/pritesh-naik-1y022">LinkedIn</a> •
   <a href="mailto:prit3shnaik19@gmail.com">Email</a> •
-  <span>India</span>
+  <span>🇮🇳</span>
 </p>
 
 <p align="center">
