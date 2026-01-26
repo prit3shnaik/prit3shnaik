@@ -1,32 +1,24 @@
-# 0xPritesh | Red Team & Web3 Security Researcher
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Active_Audit-00f2ff?style=flat-square&logo=ethereum" />
-  <img src="https://img.shields.io/badge/Focus-Manual_Exploitation-white?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Remote_Budapest-black?style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00f2ff&height=200&section=header&text=PRITESH%20S%20NAIK&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=WEB3+PENETRATION+TESTER;RED+TEAM+OPERATIONS;OSINT+|+CTI+SPECIALIST;BEYOND+THE+AUTOMATION" alt="Typing SVG" />
+</div>
 
 ---
 
-### [ 01. CURRENT_OPERATIONS ]
-* **Web3 Penetration Tester**: Auditing Solidity smart contracts for a Budapest-based startup.
-* **CTI Analyst**: Manual threat hunting, stealer log analysis, and actor profiling.
-* **Lead Developer**: Maintaining [Pinaka](https://github.com/prit3sh/pinaka), a multi-vector VAPT framework.
+### 👤 BRIEF_OVERVIEW
+I am a **Security Researcher and Web3 Penetration Tester** specializing in finding vulnerabilities that automated scanners miss. My core philosophy is simple: **Automation identifies patterns; humans identify logic.** With an international track record—currently securing a **Budapest-based Web3 startup**—I bridge the gap between traditional Red Team operations and the decentralized future. Whether it’s auditing Solidity smart contracts or performing deep-dive DarkWeb Intelligence (CTI), I focus on high-fidelity, actionable results.
 
-### [ 02. TECHNICAL_ARSENAL ]
-```javascript
-const expertise = {
-  offensive: ["Manual VAPT", "Custom Exploit Dev", "Network Pivoting"],
-  web3:      ["Solidity Audits", "DeFi Logic Testing", "dApp Security"],
-  intel:     ["DarkWeb OSINT", "SOCMINT", "Threat Actor Profiling"],
-  scripts:   ["Python", "JavaScript", "Bash"]
-};
+---
 
-###₹ [ 03. Connect ]
-​Portfolio: prit3sh.github.io
-​LinkedIn: in/pritesh-naik-1y022
-​Email: prit3shnaik19@gmail.com
-​<p align="center">
-<i>"Beyond the Automation. Finding what scanners miss."</i>
-</p>
+### 🟢 CURRENT_MISSION: ACTIVE_CONTRACT
+> **Role:** Web3 Penetration Tester (Contract)  
+> **Agency:** Web3 Startup, Budapest, Hungary (Remote)  
+> **Operations:** Solidity Code Review | DeFi Logic Auditing | dApp Security
 
+---
+
+### 🛠️ TECHNICAL_ARSENAL
+
+```zsh
+$ system-info --display skills
