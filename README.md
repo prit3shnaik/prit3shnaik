@@ -22,7 +22,6 @@ Red Team • VAPT • Threat Intelligence • OSINT • Web3 Security
 - ⛓️ **Web3 Penetration Tester** (Smart Contracts & dApps)
 - 🧠 Manual-first mindset — *no blind scanner dependency*
 - 🤐 Proven experience under **strict NDAs**
-- 🌍 Remote international contract experience (EU Web3 startup)
 
 ---
 
